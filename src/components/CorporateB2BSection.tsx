@@ -62,7 +62,7 @@ export const CorporateB2BSection: React.FC<CorporateB2BSectionProps> = ({ onShow
   };
 
   return (
-    <section id="doanh-nghiep" className="py-16 md:py-20 lg:py-24 bg-[#050a30] text-white border-b border-white/10 relative overflow-hidden">
+    <section id="doanh-nghiep" className="py-[60px] bg-[#050a30] text-white border-b border-white/10 relative overflow-hidden">
       {/* Background ambient luxury lighting */}
       <div className="absolute top-0 right-1/4 w-[500px] h-[500px] bg-[#dd3333]/15 rounded-full blur-[140px] pointer-events-none" />
       <div className="absolute bottom-0 left-10 w-[450px] h-[450px] bg-amber-500/10 rounded-full blur-[130px] pointer-events-none" />

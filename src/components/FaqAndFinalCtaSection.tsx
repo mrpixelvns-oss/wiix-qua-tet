@@ -16,7 +16,7 @@ export const FaqAndFinalCtaSection: React.FC<FaqAndFinalCtaSectionProps> = ({
   };
 
   return (
-    <section id="faq" className="py-16 md:py-20 lg:py-24 bg-[#F9FAFB] border-b border-[#050a30]/10">
+    <section id="faq" className="py-[60px] bg-[#F9FAFB] border-b border-[#050a30]/10">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Section Header */}

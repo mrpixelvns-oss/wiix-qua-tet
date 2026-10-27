@@ -53,7 +53,7 @@ export const BestSellersSection: React.FC<BestSellersSectionProps> = ({
   const displayedProducts = filteredProducts.length > 0 ? filteredProducts : sortedBestSellers.slice(0, 6);
 
   return (
-    <section id="bo-suu-tap" className="py-16 md:py-20 lg:py-20 bg-[#F9FAFB] border-b border-[#050a30]/10 relative">
+    <section id="bo-suu-tap" className="py-[60px] bg-[#F9FAFB] border-b border-[#050a30]/10 relative">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Section Header */}

@@ -35,7 +35,7 @@ export const BudgetFilterSection: React.FC<BudgetFilterSectionProps> = ({
   };
 
   return (
-    <section id="ngan-sach" className="py-16 md:py-20 lg:py-20 bg-[#F9FAFB] border-b border-[#050a30]/10 relative">
+    <section id="ngan-sach" className="py-[60px] bg-[#F9FAFB] border-b border-[#050a30]/10 relative">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Section Header: Magazine Editorial Style */}

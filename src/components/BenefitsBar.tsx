@@ -19,7 +19,7 @@ export const BenefitsBar: React.FC = () => {
   };
 
   return (
-    <section className="py-16 md:py-20 bg-gradient-to-b from-[#F9FAFB] via-[#FAF7F0] to-[#F9FAFB] relative border-b border-[#050a30]/10 overflow-hidden">
+    <section className="py-[60px] bg-gradient-to-b from-[#F9FAFB] via-[#FAF7F0] to-[#F9FAFB] relative border-b border-[#050a30]/10 overflow-hidden">
       {/* Subtle ambient luxury light orbs */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
 

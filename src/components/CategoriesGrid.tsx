@@ -9,7 +9,7 @@ interface CategoriesGridProps {
 
 export const CategoriesGrid: React.FC<CategoriesGridProps> = ({ onSelectCategory }) => {
   return (
-    <section id="danh-muc" className="py-16 md:py-20 lg:py-24 border-b border-[#050a30]/10 bg-white relative overflow-hidden">
+    <section id="danh-muc" className="py-[60px] border-b border-[#050a30]/10 bg-white relative overflow-hidden">
       {/* Ambient background accents */}
       <div className="absolute top-1/4 right-0 w-[500px] h-[500px] bg-amber-400/5 rounded-full blur-[140px] pointer-events-none" />
       <div className="absolute bottom-10 left-10 w-[400px] h-[400px] bg-[#dd3333]/5 rounded-full blur-[120px] pointer-events-none" />

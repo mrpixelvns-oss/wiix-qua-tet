@@ -125,7 +125,7 @@ export const CustomerReviewsSection: React.FC = () => {
   const activePhoto = lightboxIndex !== null ? filteredPhotos[lightboxIndex] : null;
 
   return (
-    <section id="danh-gia" className="py-16 md:py-20 lg:py-24 bg-[#F9FAFB] border-b border-[#050a30]/10">
+    <section id="danh-gia" className="py-[60px] bg-[#F9FAFB] border-b border-[#050a30]/10">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Section Header: Reviews & Social Proof */}
