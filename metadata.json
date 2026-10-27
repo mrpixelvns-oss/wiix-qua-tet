@@ -1,0 +1,6 @@
+{
+  "name": "Wiix Việt Nam - Quà Tết Tinh Tế",
+  "description": "Landing page quà Tết cao cấp thương hiệu Wiix Việt Nam theo phong cách Editorial tối giản, sang trọng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
